@@ -6,6 +6,7 @@
 int main(void)
 {
 	char cmd[MAX_COM_LEN];
+
 	while (1)
 	{
 	/* Display the prompt */
