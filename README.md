@@ -1,1 +1,2 @@
-#### this is readme
+#### this is simple shell project
+##### Author: Khaled Mahmoud
